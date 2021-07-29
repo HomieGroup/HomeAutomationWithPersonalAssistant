@@ -18,7 +18,7 @@ A Home Automation is the ability to do tasks automatically and monitor remotely 
   2. Relay Switch
   3. Jumper Wires
 
-## Python Library:
+### Python Library:
   1. SpeechRecognition
   2. Youtube-dl
   3. gTTS
@@ -28,7 +28,7 @@ A Home Automation is the ability to do tasks automatically and monitor remotely 
   7. Threading
   8. Flask
   9. Time
-## Linux Library:
+### Linux Library:
   1. python-pyaudio
   2. python3-pyaudio 
   3. Flac
@@ -36,5 +36,8 @@ A Home Automation is the ability to do tasks automatically and monitor remotely 
   5. python3-gst-1.0
   6. libgstreamer1.0-dev
   7. gstreamer-tools
-## Git Repositories:
+### Git Repositories:
   1. git clone https://github.com/uditkarode/youtube-cli  (Thank You @Uditkarode)
+ 
+ ### Run: 
+ >python3 speak_gTTS.py

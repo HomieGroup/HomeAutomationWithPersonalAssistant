@@ -1,4 +1,4 @@
-# HomeAutomationWithPersonalAssistant
+# HomeAutomationWithPersonalAssistant:
 A “Smart Home” is a part of the IoT paradigm and aims to integrate home automation. Allowing objects and devices in a home to be connected to the Internet enables users to remotely monitor and control them. These include light switches that can be turned on and off by using a smartphone or by voice command. 
 
 A Personal Voice Assistant is a technology based on AI. The software uses a device’s microphone to receive voice requests while the voice output takes place at the speaker. But the most exciting thing happens between these two actions. 
@@ -50,10 +50,10 @@ A Home Automation is the ability to do tasks automatically and monitor remotely 
 ### Run: 
  >python3 speak_gTTS.py
 
-### Use case diagrams
+### Use case diagrams:
 ![adfafd](https://user-images.githubusercontent.com/88142443/127485239-42f6b7a6-5d1c-4673-83e9-4c63bb5387cd.JPG)
 
-### Implementation
+### Implementation:
   1. The U.S. English language model provides context to distinguish the work.
   2. All the performance and speed of response are depends on Raspberry Hardware Configuration as well as Internet Speed.
   3. Use Good Quality of Microphones.

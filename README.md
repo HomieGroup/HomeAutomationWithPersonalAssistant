@@ -49,3 +49,23 @@ A Home Automation is the ability to do tasks automatically and monitor remotely 
 
 ### Run: 
  >python3 speak_gTTS.py
+
+### Use case diagrams
+![adfafd](https://user-images.githubusercontent.com/88142443/127485239-42f6b7a6-5d1c-4673-83e9-4c63bb5387cd.JPG)
+
+### Implementation
+  1. The U.S. English language model provides context to distinguish the work.
+  2. All the performance and speed of response are depends on Raspberry Hardware Configuration as well as Internet Speed.
+  3. Use Good Quality of Microphones.
+  4. All the appliances should be connected in same network.
+  5. Call “hey Buddy” to Wake up and Response, every time after Completing previous work.
+  6. If there is no response means that wrong input and give command again from starting.
+  7. If we want to search any thing in Wikipedia, Say the any sentences which include Wikipedia, after get response from raspberry, give the command to search it. After the retrieving Information, It Will response and giving information about 2 lines.
+  8. To operate devices:
+    1. Using Voice Over Command to Turning ON/OFF of Bathroom, Bedroom or Hall Light respectively, Say “ Bathroom Light On” vice-versa.
+    2. Using Webpage to Turning ON/OFF of Bathroom, Bedroom or Hall Light, Go to Browser and search “localhost:5010” / “(Assign IP of Raspberry Pi):5010”. Ex. “192.168.43.167:5010”.
+  9. Raspberry Pi GP I/O pin assign as:
+    1. GPIO 17: Bathroom Light
+    2. GPIO 27: Bedroom Light
+    3. GPIO 22: Hall Light
+

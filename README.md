@@ -40,12 +40,12 @@ A Home Automation is the ability to do tasks automatically and monitor remotely 
   1. git clone https://github.com/uditkarode/youtube-cli  (Thank You @Uditkarode)
 ### Connections: 
 ![image](https://user-images.githubusercontent.com/88142443/127484274-388d37be-d027-42bc-9d2b-a7921e698c72.png)
-In LED 1: 
-  * Assign to Bathroom Light
-In LED 2: 
-  * Assign to Bedroom Light
-In LED 3: 
-  * Assign to Hall Light
+> * In LED 1: 
+  >  Assign to Bathroom Light
+> * In LED 2: 
+  >  Assign to Bedroom Light
+> * In LED 3: 
+  >  Assign to Hall Light
 
 ### Run: 
  >python3 speak_gTTS.py

@@ -6,14 +6,35 @@ A Personal Voice Assistant is a technology based on AI. The software uses a devi
 A Home Automation is the ability to do tasks automatically and monitor remotely technology based on IoT. Common tasks include turning on/off lights via Smartphone or Voice over. It is a combination of several different technologies: voice recognition, voice analysis and language processing. It is completely developed in Raspberry Pi using one of the most powerful language python-3. 
 
 # Software requirements:
-  Raspbian OS lite
-  Python 3
+  1. Raspbian OS lite
+  2. Python 3
 # Hardware requirements:
-  Raspberry Pi with Wi-Fi Module
-  Microphone
-  Speaker
-  Raspberry Power Supply
+  1. Raspberry Pi with Wi-Fi Module
+  2. Microphone (I used USB Audio card instead of Seperated USB microphones)
+  3. Speaker
+  4. Raspberry Power Supply
 # Other requirements:
-  Wi-Fi Network
-  Relay Switch
-  Jumper Wires
+  1. Wi-Fi Network
+  2. Relay Switch
+  3. Jumper Wires
+
+## Python Library:
+  1. SpeechRecognition
+  2. Youtube-dl
+  3. gTTS
+  4. RPi.GPIO
+  5. datetime
+  6. Wikipedia
+  7. Threading
+  8. Flask
+  9. Time
+## Linux Library:
+  1. python-pyaudio
+  2. python3-pyaudio 
+  3. Flac
+  4. mgp321
+  5. python3-gst-1.0
+  6. libgstreamer1.0-dev
+  7. gstreamer-tools
+## Git Repositories:
+  1. git clone https://github.com/uditkarode/youtube-cli  (Thank You @Uditkarode)
